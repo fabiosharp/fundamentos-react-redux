@@ -1,0 +1,6 @@
+// esse arquivo precisa ser renomeado para .env
+
+module.exports = {
+    // Você pode alterar essa chave!
+    authSecret: '<<INSIRA-SUA-CHAVE-AQUI>>'
+}
